@@ -7,6 +7,7 @@ The application allows users to control a calendar remotely by:
 
 *   Adding dates to the calendar.
 *   Removing dates from the calendar.
+*   Getting query of events.
 
 ### Key Features:
 *   **Custom RMI Implementation**: Implements RMI functionality entirely from scratch, showcasing the fundamentals of remote communication in Python.
